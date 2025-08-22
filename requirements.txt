@@ -1,0 +1,11 @@
+mne>=1.2
+numpy
+scipy
+pandas
+PyWavelets
+matplotlib
+pillow
+torch
+torchvision
+tqdm
+scikit-learn
